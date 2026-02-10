@@ -1,12 +1,12 @@
 <h1 align="center">
-  🇮🇳 CHITIJ ᴛxᴛ ᴜᴘʟᴏᴀᴅᴇʀ 🇮🇳
+  🇮🇳 DEEP ᴛxᴛ ᴜᴘʟᴏᴀᴅᴇʀ 🇮🇳
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Txt+Uploader+Bot+!)
 
 ## 😎 Credit
 
-🥳 Credit Goes To [Chitij](https://t.me/chitijrajput)
+🥳 Credit Goes To [DEEP](https://t.me/kingdk88)
 
   
 ## 🔥 Commands
