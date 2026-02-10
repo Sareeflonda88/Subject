@@ -12,7 +12,7 @@
 ## 🔥 Commands
 
 - **`/start`**: ⚡ check bot is alive.
-- **`/chitij`**:  📁 upload txt file.
+- **`/deep`**:  📁 upload txt file.
 - **`/stop`**: 🛑 stop ongoing process.
 - **`/restart`**: 🔮 restart the bot.
 - **`/cookies`**: 🍪 upload cookies file.
